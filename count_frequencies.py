@@ -1,5 +1,9 @@
 """
-You are given an array of n integers which can contain integers from 1 to n only . Some elements can be repeated multiple times and some other elements can be absent from the array . Write a running code on paper which takes O(1) space apart from the input array and O(n) time to print which elements are not present in the array and the count of every element which is there in the array along with the element number . 
+You are given an array of n integers which can contain integers from 1 to n only.
+Some elements can be repeated multiple times and some other elements can be absent from the array.
+Write a running code on paper which takes O(1) space apart from the input array and O(n) time to
+print which elements are not present in the array and the count of every element which is there
+in the array along with the element number.
 NOTE: The array isn't necessarily sorted.u
 
 >>> a
