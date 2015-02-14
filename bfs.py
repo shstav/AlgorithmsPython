@@ -13,6 +13,7 @@ graph = {
   'D': set(['G'])
 }
 
+# Note: 'graph' assumed to be without cycles
 def bfs(graph_root, graph):
   nodes_queue = deque([graph_root])
   while nodes_queue:
